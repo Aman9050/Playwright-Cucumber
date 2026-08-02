@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
  "scripts": {
-  "clean": "npx rimraf allure-results allure-report videos",
+  "pretest": "npx rimraf allure-results allure-report videos",
   "test": "ts-node scripts/run-tests.ts",
   "test:qa": "cross-env ENV=qa npm test",
   "test:sit": "cross-env ENV=sit npm test"

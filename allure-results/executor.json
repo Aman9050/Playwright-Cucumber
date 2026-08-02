@@ -1,8 +1,0 @@
-{
-  "name": "AutomationTeam",
-  "type": "local",
-  "reportName": "PlaywrightSIT Report",
-  "buildName": "sit Run",
-  "buildOrder": "1785676190686",
-  "reporter": "AutomationTeam"
-}

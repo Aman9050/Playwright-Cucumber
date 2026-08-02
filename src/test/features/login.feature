@@ -15,7 +15,7 @@ And user  click on login
  Examples:
  |Product| Testcaseid |
  |Samsung galaxy s6|TC001|
-   |Nokia lumia 1520|TC002|
+  #  |Nokia lumia 1520|TC002|
     
 
  

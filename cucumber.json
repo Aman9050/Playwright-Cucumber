@@ -19,7 +19,7 @@
       "progress",
       "allure-cucumberjs/reporter"
     ],
-  "parallel": 2,
+  "parallel":1,
     "publishQuiet": true,
         "requireModule": ["ts-node/register"]
     }

@@ -1,0 +1,1 @@
+[{"uid":"866f41a5d9d00c8","name":"TC001:validate product is added to cart","time":{"start":1785676190690,"stop":1785676204075,"duration":13385},"status":"passed","severity":"normal"},{"uid":"aefbcc84b03e94a7","name":"TC002:validate product is added to cart","time":{"start":1785676190702,"stop":1785676204030,"duration":13328},"status":"passed","severity":"normal"}]

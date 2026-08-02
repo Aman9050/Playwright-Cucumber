@@ -1,0 +1,26 @@
+{
+    "default":{
+
+        "formatOptions":{
+            "snippetInterface":"async-await"
+        },
+        "paths":[
+            "src/test/features/"
+        ],
+        "dryRun" :false,
+        
+        "require" :[
+            "src/test/steps/*.ts",
+            "src/test/helper/**/*.ts",
+            "src/test/testdata/PrePod/*.ts"
+            
+        ],
+        "format": [
+      "progress",
+      "allure-cucumberjs/reporter"
+    ],
+  "parallel": 2,
+    "publishQuiet": true,
+        "requireModule": ["ts-node/register"]
+    }
+}
